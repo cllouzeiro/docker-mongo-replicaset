@@ -19,3 +19,5 @@ Passos para rodar o container:
 4 - No arquivo start.sh adicionar os dados referente ao usuario que será utilizado como root
 
 5 - sh ./start.sh
+
+6 - Para subir o container username=<USER> password=<PASSWORD> docker-compose up
